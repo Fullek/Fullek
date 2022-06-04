@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fullek
+# 👋 Hi, I’m @Fullek
 - 👀 I’m interested in programming
 - 🌱 I’m currently programming in Java and SQL on Linux, in future I plan to start also Python.
 - 💞️ I’m looking to collaborate on projects or commercial cooperation
